@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UpDownOnElements</string>
+    <string name="toast_no_sensor">No</string>
+    <string name="initial_number">0</string>
+</resources>
